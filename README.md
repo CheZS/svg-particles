@@ -1,5 +1,4 @@
 # svg-particles
-<<<<<<< HEAD
 使用particles.js实现粒子效果
 在上层添加svg实现遮罩
 
